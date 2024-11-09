@@ -1,0 +1,46 @@
+// tạo tài lieu và môi trường test
+1. OpenAPI (Swagger)
+
+// REST FULL API
+2. Routing
+3. HTTP Method
+
+// INPUT API
+4. ModelBinding
+5. Custom Validation
+6. Auto mapper
+
+// Middle ware chống DDOS
+7. Middleware
+8. Rate limiter
+
+// Hiệu suất
+9. Cache
+10. Response cache
+11. Response Compression
+
+// Quản lý phiện bản
+12. API versioning
+
+// security
+13. CORS
+14. UseHttpsRedirection
+15. UseHsts (HTTP Strict Transport Security)
+16. UseCsp (Content Security Policy) xss
+
+// Authentication
+17. Cookie authen
+18. JWT
+19. OAuth
+20. OpenID
+
+// Loggin
+21. Serilog
+
+// Unit test
+22. xUnit & Moq
+23. unit test HttpContext
+24. Unit test DbContext
+
+
+
